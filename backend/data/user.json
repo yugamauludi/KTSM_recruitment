@@ -1,0 +1,14 @@
+[
+    {
+        "fullName": "Anton Sutono",
+        "email": "anton@mail.com",
+        "password": "abcd1234",
+        "role": "user"
+    },
+    {
+        "fullName": "Ali Akbar",
+        "email": "ali@mail.com",
+        "password": "abcd1234",
+        "role": "user"
+    }
+]
